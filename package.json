@@ -10,6 +10,7 @@
     "Richard Davey <rdavey@gmail.com>"
   ],
   "main": "./dist/pixi.js",
+  "types": "./dist/pixi.d.ts",
   "homepage": "http://goodboydigital.com/",
   "bugs": "https://github.com/pixijs/pixi.js/issues",
   "license": "MIT",
@@ -84,5 +85,6 @@
     "pixify": "^1.7.0",
     "rimraf": "^2.5.3",
     "watch": "^0.19.1"
-  }
+  },
+  "typeScriptVersion": "2.1"
 }
